@@ -9,7 +9,7 @@
       <p><b>邮箱：zhangzhenyu0509@qq.com</b></p>
     </td>
     <td width="25%">
-      <img src="/zhangzhenyu.jpg" width="100%">
+      <img src="/zhangzhenyu.jpg" width="100%">      % 插入证件照代码
     </td>
   </tr>
 </table></p>
