@@ -1,41 +1,29 @@
-<p>
-<table border="0">
-  <tr>
-    <td width="75%">
-      <h1>张振宇</h1>
-      <p><b>硕士研究生</b></p>
-      <p><b>辽宁工程技术大学软件学院</b></p>
-      <p><b>邮箱：zhangzhenyu0509@qq.com</b></p>
-    </td>
-    <td width="25%">
-      <img src="/zhangzhenyu.jpg" width="100%">
-    </td>
-  </tr>
-</table></p>
-###最新消息
+<h1 align="center">Hi 👋, I'm Charles Zhang</h1>
+<h3 align="center">A project manager with development experience from China</h3>
 
-「既然不念过往那么难，不如有朝一日顶峰相见吧」
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zlecmay9&label=Profile%20views&color=0e75b6&style=flat" alt="zlecmay9" /> </p>
 
-###研究方向
+- 🔭 I’m currently working on **电力大数据助力双碳行动成效分析**
 
-DataWorks Java .Net Vue 
+- 🌱 I’m currently learning **Project Management Professional**
 
-###荣誉奖励
+- 👯 I’m looking to collaborate on **国网新能源云**
 
-1、2018级校优秀毕业生
+- 🤝 I’m looking for help with **碳路者**
 
-2、14-18连续四年获得校奖学金
+- 📫 How to reach me **zhangzhenyu0509@gmail.com**
 
-3、14-18连续四年获得校优秀班干部
+- ⚡ Fun fact **I think I am funny**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-###项目研究
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-1、辽宁省智慧环保项目
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zlecmay9&show_icons=true&locale=en&layout=compact" alt="zlecmay9" /></p>
 
-2、辽宁电力朝阳供电公司效益佳微应用
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zlecmay9&show_icons=true&locale=en" alt="zlecmay9" /></p>
 
-3、辽宁能源营销业务市场管理功能深化应用
-
-4、辽宁电力盘锦供电公司营销表计资产管理系统
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zlecmay9&" alt="zlecmay9" /></p>
